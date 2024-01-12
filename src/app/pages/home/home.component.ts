@@ -7,33 +7,33 @@ import { Title, Meta } from '@angular/platform-browser'
   styleUrls: ['home.component.css'],
 })
 export class Home {
-  rawfaa0: string = ' '
-  raw2jb8: string = ' '
-  rawxbx6: string = ' '
-  rawd9q5: string = ' '
-  rawlho0: string = ' '
-  rawmzto: string = ' '
-  rawmlsh: string = ' '
-  rawsr53: string = ' '
-  raw1bgy: string = ' '
-  raww70l: string = ' '
-  rawjnq2: string = ' '
-  raw6h2h: string = ' '
-  rawax9x: string = ' '
-  raw9hv3: string = ' '
-  raw8bkw: string = ' '
-  rawn7a4: string = ' '
-  rawl224: string = ' '
-  raw2czl: string = ' '
-  rawgc4b: string = ' '
-  rawdk4d: string = ' '
-  rawz0br: string = ' '
+  rawo584: string = ' '
+  rawzq9b: string = ' '
+  rawa6on: string = ' '
+  rawviiu: string = ' '
+  rawdyby: string = ' '
+  rawqxka: string = ' '
+  rawra11: string = ' '
+  rawrw8a: string = ' '
+  rawo8ug: string = ' '
+  raw68pf: string = ' '
+  raw0307: string = ' '
+  rawcnee: string = ' '
+  rawbzs3: string = ' '
+  rawhfpt: string = ' '
+  rawd7ik: string = ' '
+  rawg5o9: string = ' '
+  rawzbvn: string = ' '
+  raw7egt: string = ' '
+  rawvvju: string = ' '
+  rawy4oh: string = ' '
+  rawpbce: string = ' '
   constructor(private title: Title, private meta: Meta) {
-    this.title.setTitle('Exalted Conscious Aardvark')
+    this.title.setTitle('ArtSystem')
     this.meta.addTags([
       {
         property: 'og:title',
-        content: 'Exalted Conscious Aardvark',
+        content: 'ArtSystem',
       },
     ])
   }
